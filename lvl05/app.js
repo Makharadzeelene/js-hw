@@ -18,3 +18,8 @@
 //   console.log("მართკუთხედის ფართობი არის:", area);
 
 // hw#3
+// let randomahtxt = 'goabest!'
+// let txt = ''
+// for (let i = 10;  i > length.randomahtxt; i++) {
+//     txt += randomahtxt[i] + "<br>";
+// }
