@@ -200,3 +200,32 @@
 // let yummymeal = false;
 
 // console.log(`moms soups r yumm:3 : ${yummymeal}`)
+
+//hw4
+// let num = 2
+
+// num => 5 = true;
+
+//hw#5
+// let ver = 3
+
+// console.log(ver)
+
+// window.prompt(`what is ${ver} greater then?`)
+// if(ver => 2){
+//     console.log('ur correct!')
+// }
+// else{
+//     console.log('awe.. sorry wrong:(')
+// }
+
+//hw#6
+// let oasus = 6
+// let fihac = 2
+
+// if(oasus => fihac){
+//     console.log('shen swori xar')
+// }
+// else{
+//     console.log('ui araswori xar.')
+// }
